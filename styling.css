@@ -1,0 +1,12 @@
+html{
+    position: relative;
+    min-height: 100%;
+}
+
+/*Background Image*/
+body{
+    font-family: Arvo, serif;
+    background: url("road-in-scotland.jpg") no-repeat center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
